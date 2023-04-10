@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
 <h1 align="center">Hi 👋, I'm Farhan Jamaludin</h1>
 <h3 align="center">A passionate developer from Malaysia</h3>
 <img align ="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
