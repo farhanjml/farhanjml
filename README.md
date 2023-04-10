@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Typing Game**
 
-- 🌱 I’m currently learning **ReactJS, Typescript, and Python**
+- 🌱 I’m currently learning **Javascript, Typescript, and Python**
 
 - 📫 How to reach me **farhanjamaludin.work@gmail.com**
 
